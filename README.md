@@ -1,1 +1,1 @@
-# cse321_projects-stuff
+# The lab project is about implementing metadata journaling in a VSFS filesystem.
