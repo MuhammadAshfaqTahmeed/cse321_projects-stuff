@@ -1,0 +1,6 @@
+./mkfs
+./validator
+gcc -o journal journal.c
+./journal create newtest2.txt
+./journal install 
+./validator
